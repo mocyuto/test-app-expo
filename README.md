@@ -14,10 +14,10 @@ set up Android Emulator or iOS simulator
 ## Getting Start
 
 ### create env config
-``bash
+```bash
 $ cp .env-sample .env
 # fill parameter your own.
-``
+```
 
 ### start server
 
